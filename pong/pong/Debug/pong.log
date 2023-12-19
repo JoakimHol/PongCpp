@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(22,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(23,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(71,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(78,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(79,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(99,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(115,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(122,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(159,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(166,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(172,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(173,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(174,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(177,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\JoakimHolberg\source\repos\pong\pong\main.cpp(178,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  pong.vcxproj -> C:\Users\JoakimHolberg\source\repos\pong\Debug\pong.exe
